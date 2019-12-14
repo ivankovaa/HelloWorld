@@ -1,0 +1,96 @@
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+header.masthead {
+  position: relative;
+  background-color: #343a40;
+  background: url("../img/event.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.container {
+  color: black;
+}
+
+.btn {
+  float: right;
+  margin-right: 10px;
+}
+
+header.masthead .mb-5 {
+  font-size: 40px;
+  margin-top: 500px;
+  text-align: center;
+}
+
+.features {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+}
+
+.features.feature {
+  max-width: 20rem;
+}
+
+.clients {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.clients .client-item1 {
+  max-width: 18rem;
+  float: left;
+}
+
+.clients .client-item2 {
+  max-width: 18rem;
+  position: relative;
+  margin-left: 500px;
+}
+
+.clients .client-item3 {
+  max-width: 18rem;
+  position: relative;
+  margin-left: 1000px;
+  margin-top: -633px;
+}
+
+.call-to-action {
+  background: url("../img/event.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.call-to-action .form-row {
+  position: relative;
+  margin-top: 300px;
+  margin-left: 700px;
+}
+
+.btn2 {
+  position: relative;
+  margin-left: 25px;
+}
+
+.info {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.info li a {
+  color: black;
+}
